@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hey there! Welcome to my website. I'm a first-year PhD student  in [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu) at Massachusetts Institute of Technology (MIT), advised by  [Professor Ali Jadbabaie](https://jadbabaie.mit.edu/). I am also affilated with the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/). Prior to coming to MIT, I was an undergraduate student at Sharif University of Technology studying Electrical Engineering.
+Hey there! Welcome to my website. I'm a PhD student  in [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu) at Massachusetts Institute of Technology (MIT), advised by  [Professor Ali Jadbabaie](https://jadbabaie.mit.edu/). I am also affilated with the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/). Prior to coming to MIT, I was an undergraduate student at Sharif University of Technology studying Electrical Engineering.
 
 During my undergrad, I was very fortunate to work with [Professor Marco Mondelli](http://marcomondelli.com/), and [Professor Arash Amini](http://sharif.ir/~aamini/).
  <!-- and had a wonderful internship at [ISTA](https://ist.ac.at/en/home/) under supervision of [Professor Marco Mondelli](http://marcomondelli.com/). -->
